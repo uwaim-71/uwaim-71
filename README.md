@@ -2,7 +2,7 @@
   <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/{uwaim-71}/count.svg" alt="Visitor's Count" >
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+uwaim-71!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Tasnim!;" />
   </h1>
   A cybersecurity enthusiast
   - 🌱 I'm currently learning cybersecurity. 
